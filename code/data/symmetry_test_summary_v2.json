@@ -1,0 +1,17 @@
+{
+  "axis": {
+    "ra_deg": 170.0,
+    "dec_deg": 40.0
+  },
+  "filters": {
+    "DM_min": 800.0,
+    "|b|_min": 20.0,
+    "N_FRB": 100
+  },
+  "mirror_test": {
+    "r_mirror": 1.0,
+    "p_mirror": 0.0,
+    "p_perm(|r|)": 0.6151924037981009,
+    "N_perm": 2000
+  }
+}
